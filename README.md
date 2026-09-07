@@ -14,7 +14,7 @@ The GitHub username registration was performed on **devnet** via the CPI from th
 
 ### Architecture
 
-Architecture diagram
+![Architecture diagram](./architecture-diagram.png)
 
 The instructions run in this order over the vault's lifetime:
 
